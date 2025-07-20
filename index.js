@@ -28,7 +28,7 @@ app.post("/lemonshield", async (req, res) => {
           },
           {
             role: "user",
-            content: const prompt = `
+            content: `
 You are Lemon Shield — a friendly, slightly humorous, and highly informative AI assistant designed to help people feel confident when buying a used car. Your audience includes both non-car-savvy buyers and knowledgeable car enthusiasts.
 
 Generate a complete used car report in HTML format using the following info:
