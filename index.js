@@ -58,6 +58,20 @@ Notes from user: ${notes || "None"}
   }
 });
 
+app.get("/test", (req, res) => {
+  res.send(`
+    <html>
+      <head>
+        <title>Lemon Shield Test</title>
+      </head>
+      <body style="font-family: Arial, sans-serif; padding: 2rem;">
+        <h1>Lemon Shield Report</h1>
+        <p>This is a test page served from your backend.</p>
+      </body>
+    </html>
+  `);
+});
+
 app.listen(PORT, () => {
   console.log(`🚀 Lemon Shield backend running on port ${PORT}`);
 });
