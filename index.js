@@ -62,7 +62,7 @@ Include the following sections in this order:
 13. **Final Summary**: Wrap up the report in a confident, friendly tone with a final verdict.
 
 Format the output with <div class="section">, use <h2> for each section title, and use <p> or <ul><li> where appropriate. 
-Keep the tone helpful, clear, slightly funny when appropriate, and make the reader feel smart and empowered.`;
+Keep the tone helpful, clear, slightly funny when appropriate, and make the reader feel smart and empowered.`
 
 
 `,
