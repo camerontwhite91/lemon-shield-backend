@@ -72,7 +72,7 @@ Keep the tone helpful, clear, slightly funny when appropriate, and make the read
       {
         headers: {
           "Content-Type": "application/json",
-          Authorization: `Bearer ${process.env.OPENAI_API_KEY}`,
+          "Authorization": `Bearer ${process.env.OPENAI_API_KEY}`,
         },
       }
     );
