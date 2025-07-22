@@ -58,7 +58,7 @@ Include the following sections in this order:
 9. **Reliability**: Is it dependable? Explain why or why not.
 10. **Value**: Is the asking price fair? Back it up.
 11. **Ease of Repair**: From Easy to Very Difficult. Explain why.
-12. **Price Negotiation**: What questions should a buyer ask the seller? What should they check in person?
+12. **Price Negotiation**: This is very important. What questions should a buyer ask the seller? What should they inspect in person? Give the user clear advice they can use during negotiations. Suggest a fair offer based on the asking price, known issues, and market value for that year, make, and model. Help the user feel confident when talking to the seller.
 13. **Final Summary**: Wrap up the report in a confident, friendly tone with a final verdict.
 
 Format the output with <div class="section">, use <h2> for each section title, and use <p> or <ul><li> where appropriate. 
